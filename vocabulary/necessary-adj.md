@@ -6,4 +6,4 @@
 
 Synonym [inevitable](inevitable-adj.md#that-you-cannot-avoid-or-prevent)
 
-- a necessary condition
+- a necessary [condition](condition-n.md#a-situation-that-must-exist-in-order-for-something-else-to-happen)

@@ -6,4 +6,4 @@
 
 Opposite [insufficient](insufficient-adj.md#not-large-strong-or-important-enough-for-a-particular-purpse)
 
-- a sufficient condition
+- a sufficient [condition](condition-n.md#a-situation-that-must-exist-in-order-for-something-else-to-happen)

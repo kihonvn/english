@@ -1,0 +1,22 @@
+{
+	"(Logic) NOT operator": {
+		"prefix": ["not"],
+		"body": "&#x00AC;",
+		"description": "(Logic) NOT operator"
+	},
+	"(Logic) AND operator": {
+		"prefix": ["and"],
+		"body": "&#x2227;",
+		"description": "(Logic) AND operator"
+	},
+	"(Logic) OR operator": {
+		"prefix": ["or"],
+		"body": "&#x2228;",
+		"description": "(Logic) OR operator"
+	},
+  "(Logic) EQUIVALENCE relation": {
+		"prefix": ["equivalent", "<=>"],
+		"body": "&#x21D4;",
+		"description": "(Logic) EQUIVALENCE relation"
+	},
+}

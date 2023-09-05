@@ -2,4 +2,4 @@
 
 /ˈfiːtʃə(r)/
 
-## something important, interesting, or typical of a place or thing
+## something important, interesting, or typical of a place or thing (tính năng)

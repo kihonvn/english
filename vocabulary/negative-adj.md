@@ -2,8 +2,8 @@
 
 /ˈneɡətɪv/
 
-## less than zero
+## less than zero (âm)
 
-Opposite [positive](positive-adj.md#greater-than-zero)
+Opposite [positive](positive-adj.md#greater-than-zero-dương)
 
 - a negative number

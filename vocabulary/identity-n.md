@@ -1,5 +1,9 @@
 # identity (n)
 
+/aɪˈdentəti/
+
+## an equality of two expressions, i.e., A = B (đồng nhất thức)
+
 ## identical with itself (đồng nhất)
 
 - identity law

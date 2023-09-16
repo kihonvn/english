@@ -2,4 +2,4 @@
 
 /əˈvɔɪd/
 
-## to prevent something bad from happening
+## to prevent something bad from happening (tránh)

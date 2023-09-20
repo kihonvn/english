@@ -2,4 +2,4 @@
 
 /pɑːt/
 
-## a piece of (một phần)
+## a piece of (phần; một phần)

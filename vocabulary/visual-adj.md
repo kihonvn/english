@@ -2,4 +2,4 @@
 
 /ˈvɪʒuəl/
 
-## of or connected with seeing or sight
+## of or connected with seeing or sight (thị giác; trực quan)
